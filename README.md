@@ -1,3 +1,7 @@
+> **Repository notice:** This repository was originally hosted under my previous GitHub account, `apatil1`. I no longer have access to that account. The project has been moved here, and this repository is now the actively maintained version.
+>
+> Original repository: [https://github.com/apatil1/HumanFilteringToolsComparison](https://github.com/apatil1/HumanFilteringToolsComparison).
+
 # Run different tools for filtering out human reads
 
 ## Command-line parameter description
